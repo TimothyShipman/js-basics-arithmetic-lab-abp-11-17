@@ -13,7 +13,7 @@ function ageIsValid(){
   if (currentAgeIsInteger){
     ageIsValid = true
   } else {
-    false
+    ageIsValid = false
   }
 
 }
