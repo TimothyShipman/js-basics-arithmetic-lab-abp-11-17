@@ -13,9 +13,9 @@ let ageIsValid = {}
 
 function currentAge(){
   if (currentAgeIsInteger){
-     true
+    true
   } else {
-     false
+    false
   }
 
 };
