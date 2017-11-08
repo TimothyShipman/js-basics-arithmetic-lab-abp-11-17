@@ -11,6 +11,8 @@ const newID = (1000000000 + oldID);
 
 const ageIsValid = (currentAgeIsInteger);
 
-Number.isInteger()
+Number.isInteger();
 
-Math.random()
+const randomNumber(0, 20);
+
+Math.random();
