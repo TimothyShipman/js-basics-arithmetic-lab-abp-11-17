@@ -16,3 +16,5 @@ Number.isInteger();
 const randomNumber = (0, 19);
 
 Math.random();
+
+const randomInteger = Math.floor(randomNumber)
