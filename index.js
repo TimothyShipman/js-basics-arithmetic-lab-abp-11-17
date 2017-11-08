@@ -10,7 +10,7 @@ You should NOT try to redefine any of the above variables.
 const newID = (1000000000 + oldID);
 
 function ageIsValid(){
-  let currentAge = ()}
+  let currentAge()}
    {if (currentAgeIsInteger){
      currentAge = true
    } else {
