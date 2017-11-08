@@ -13,6 +13,6 @@ const ageIsValid = (currentAgeIsInteger);
 
 Number.isInteger();
 
-var randomNumber(0, 20);
+let randomNumber(0, 20);
 
 Math.random();
