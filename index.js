@@ -11,11 +11,3 @@ const newID = (1000000000 + oldID);
 
 let ageIsValid = (currentAge);
 
-function currentAge(){
-  if (currentAgeIsInteger){
-    true}
-  } else {
-    false
-  }
-
-};
