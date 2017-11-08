@@ -16,4 +16,4 @@ function ageIsValid(){
     currentAge = false
   }
 
-}
+};
