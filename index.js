@@ -11,7 +11,9 @@ const newID = (1000000000 + oldID);
 
 function ageIsValid(){
   if (currentAgeIsInteger){
-    "true"
+    true
+  } else {
+    false
   }
   
 }
